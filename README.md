@@ -1,4 +1,4 @@
-# Examples-from-my-past-work
+# Valuations, analyses and many more
 
 This repository includes some of my past work templates
 
